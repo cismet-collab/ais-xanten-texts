@@ -38,7 +38,7 @@ const Component = () => {
           <p>
             Das Ergebnis der Simulation ist von der Dauer und Intensität des
             Regens abhängig, der für die Simulation angenommen wird. Wir bieten
-            Ihnen hierzu drei unterschiedliche{" "}
+            Ihnen hierzu zwei unterschiedliche{" "}
             <a
               className="renderAsLink"
               onClick={() => setAppMenuActiveMenuSection("szenarien")}
