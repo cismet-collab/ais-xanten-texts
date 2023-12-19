@@ -23,10 +23,10 @@ const Component = () => {
             align="right"
           />
           <p>
-            Die Starkregengefahrenkarte im AIS Starkregenvorsorge stellt in drei
+            Die Starkregengefahrenkarte im AIS Starkregenvorsorge stellt in zwei
             umschaltbaren Kartenansichten maximale Wassertiefen bzw. maximale
             Fließgeschwindigkeiten im gesamten Gültigkeitsgebiet dar, die im
-            Verlauf von drei simulierten Starkregenszenarien berechnet wurden.
+            Verlauf von zwei simulierten Starkregenszenarien berechnet wurden.
             Bei den Ergebnissen handelt es sich um eine modelltechnische
             Untersuchung des Gültigkeitsgebiets mit dem Ziel die Realität
             möglichst gut abzubilden. Bei der Betrachtung und Interpretation der
