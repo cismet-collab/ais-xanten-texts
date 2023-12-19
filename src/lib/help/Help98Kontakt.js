@@ -3,7 +3,7 @@ import GenericModalMenuSection from "react-cismap/topicmaps/menu/Section";
 import cismetLogo from "./assets/cismetSignet2k.png";
 import pecherLogo from "./assets/pecher.png";
 import klasLogo from "./assets/Signet_AIS_RZ.png";
-import customerLogo from "./assets/customerLogo.png";
+import customerLogo from "./assets/Logo-DBX-neu.jpg";
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 const Component = ({ email }) => {
@@ -17,24 +17,24 @@ const Component = ({ email }) => {
           <p>
             Für telefonische Auskünfte zum Umgang mit dem Auskunfts- und
             Informationssystem Starkregen (AIS) stehen Ihnen die
-            Mitarbeiterinnen und Mitarbeiter der cismet GmbH zur Verfügung.
+            Mitarbeiterinnen und Mitarbeiter des Dienstleitungsbetriebs Xanten zur Verfügung.
           </p>
           <p>
             Weitere Informationen zum Thema „Schutz vor Starkregen“ finden Sie
-            auf der Homepage der Dr. Pecher AG.
+            auf der Homepage des DBX.
           </p>
 
           <p style={{ display: "flex" }}>
             <div>
-              Stadt
+              Stadt Xanten
               <br />
-              Abteilung
+              Dienstleistungsbetrieb Xanten
               <br />
-              Straße
+              Karthaus 2
               <br />
-              PLZ Stadt
+              46509 Xanten
               <br />
-              Telefon: 0000 000000
+              Telefon: +49 2801 / 7720
               <br />
               E-Mail: <a href="mailto:{email)}">{email}</a>
               <br />
