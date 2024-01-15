@@ -30,22 +30,22 @@ const Component = () => {
 
           <p>
             Die Simulationen wurden mit einem Oberflächenabflussmodell für das
-            hydrologische Einzugsgebiet mit einer Auflösung von 1x1 Meter
+            hydrologische Einzugsgebiet der Stadt Xanten mit einer Auflösung von 1x1 Meter
             aufgebaut. Wesentliche Modellgrundlage ist das Digitale
             Geländemodell (DGM1). Als Grundlage hierfür dienen flächenhafte
             Höhenmessungen, die das Land NRW turnusmäßig mit einem Laserscanner
             aus einem Flugzeug heraus durchführt (Aufnahme durch Laseraltimetrie
-            im Jahr 2021 und 2022). Für die Simulation wurde das DGM1 um die
-            Gebäude aus dem Liegenschaftskataster (10/2022) ergänzt. Außerhalb
-            des Gültigkeitsgebiets wurden Daten des Bundesamts für Kartographie
-            und Geodäsie verwendet (Bundesamt für Kartographie und Geodäsie, ©
-            GeoBasis-DE / BKG (2023)).
+            im Jahr 2014 und 2020). Der Rheinaltarm war bei der Messung 2020 infolge eines Flusshochwassers überschwemmt, 
+            wodurch der Wasserstand und nicht die Geländeoberfläche in diesem Bereich erfasst wurde und es zu Höhenabweichungen 
+            im digitalen Geländemodell gekommen ist. Daher wird dieser Bereich im AIS Starkregenvorsorge Xanten ausgeblendet. 
+            Für die Simulation wurde das DGM1 um die
+            Gebäude aus dem Liegenschaftskataster (01/2022) ergänzt.
           </p>
 
           <p>
             Das Oberflächenmodell wurde anschließend um wichtige verrohrte
             Gewässerabschnitte sowie Geländedurchlässe ergänzt, um eine
-            hydrologisch korrekte Abflussberechnung zu gewährleisten. In diesem
+            hydrologisch korrekte Abbildung von potenziellen Fließwegen zu gewährleisten. In diesem
             Rahmen wurden auch weitere Fließhindernisse wie z. B. Mauern ergänzt
             und maßgebliche siedlungswasserwirtschaftliche Bauwerke (Hochwasser-
             und Regenrückhaltebecken) mit ihrer Wirkung im Oberflächenmodell
@@ -60,10 +60,9 @@ const Component = () => {
 
           <p>
             Grundlage für die Modellanpassungen waren die kommunal verfügbaren
-            Datensätze, Ortsbegehungen im Kreisgebiet und eine Prüfung durch
-            kommunale Vertreter:innen. Auf Grundlage von Testrechnungen wurde
-            das Modell anschließend gemeinsam mit Vertreter:innen aus den
-            Kommunen geprüft und angepasst.
+            Datensätze, Ortsbegehungen im Stadtgebiet und eine Prüfung durch
+            den Dienstleistungsbetrieb der Stadt Xanten (DBX). Auf Grundlage von Testrechnungen wurde
+            das Modell anschließend gemeinsam mit dem Dienstleistungsbetrieb der Stadt Xanten (DBX) geprüft und angepasst.
           </p>
 
           <p>Welche Daten wurden berücksichtigt?</p>
@@ -76,7 +75,9 @@ const Component = () => {
               (https://www.govdata.de/dl-de/zero-2-0))
             </li>
 
-            <li>...</li>
+            <li>Stadt Xanten/DBX: Dokumentation Ereignis 2016, Informationen aus dem Generalentwässerungsplan (GEP) zu Überstauschächten, darüber hinaus erfolgte eine weitergehende Datenerfassung und Modellprüfung in einer Online-Karte.</li>
+
+            <li>Linksniederrheinische Entwässerungs-Genossenschaft: Bauwerksinformationen, Einbauten, Verrohrungen</li>
           </ul>
 
           <p>
