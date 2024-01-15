@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a0f0a568.css",
-    "main.js": "./static/js/main.31120dfc.js",
+    "main.js": "./static/js/main.04d8ba61.js",
     "static/js/787.643ecc73.chunk.js": "./static/js/787.643ecc73.chunk.js",
     "static/media/Logo-DBX-neu.jpg": "./static/media/Logo-DBX-neu.3e2e8bdfd385a94e00ea.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -20,11 +20,11 @@
     "index.html": "./index.html",
     "static/media/location-arrow-solid.svg": "./static/media/location-arrow-solid.0b7c9a27de87a0ec7420.svg",
     "main.a0f0a568.css.map": "./static/css/main.a0f0a568.css.map",
-    "main.31120dfc.js.map": "./static/js/main.31120dfc.js.map",
+    "main.04d8ba61.js.map": "./static/js/main.04d8ba61.js.map",
     "787.643ecc73.chunk.js.map": "./static/js/787.643ecc73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0f0a568.css",
-    "static/js/main.31120dfc.js"
+    "static/js/main.04d8ba61.js"
   ]
 }
