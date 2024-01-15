@@ -47,7 +47,7 @@ const Component = ({ defaultContextValues = {}, email }) => {
             Geländemodell melden" <Icon name="comment" /> links oben im
             Kartenfenster öffnen Sie das auf Ihrem Rechner eingerichtete
             E-Mail-Programm mit dem Gerüst einer Nachricht an{" "}
-            <a href="mailto:starkregen@cismet.de">starkregen@cismet.de</a>. Über
+            <a href="mailto:starkregen@cismet.de">starkregen@xanten.de</a>. Über
             diese Funktionsadresse sprechen Sie eine Gruppe von Experten:innen
             an. Das automatisch erzeugte E-Mail-Gerüst enthält einen Link, mit
             dem diese Experten:innen die Starkregengefahrenkarte genau in dem
