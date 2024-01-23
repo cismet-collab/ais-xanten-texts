@@ -35,9 +35,12 @@ const Component = () => {
             Geländemodell (DGM1). Als Grundlage hierfür dienen flächenhafte
             Höhenmessungen, die das Land NRW turnusmäßig mit einem Laserscanner
             aus einem Flugzeug heraus durchführt (Aufnahme durch Laseraltimetrie
-            im Jahr 2014 und 2020). Der Rheinaltarm war bei der Messung 2020 infolge eines Flusshochwassers überschwemmt, 
-            wodurch der Wasserstand und nicht die Geländeoberfläche in diesem Bereich erfasst wurde und es zu Höhenabweichungen 
+            im Jahr 2014 und 2020). Der Rhein führte bei der Messung 2020 Hochwasser wodurch der Rhein an sich sehr hohe Wasserstände aufwies und der Rheinaltarm überschwemmt war.
+            Infolgedessen wurde in diesem Bereich der Wasserstand und nicht die Geländeoberfläche erfasst, wodurch es zu Höhenabweichungen 
             im digitalen Geländemodell gekommen ist. Daher wird dieser Bereich im AIS Starkregenvorsorge Xanten ausgeblendet. 
+            Flüsse wie der Rhein weisen eine relativ hohe Abflussleistung auf und reagieren eher auf langanhaltende und großräumige Niederschläge mit Hochwasser.
+            Überschwemmungen durch den Rhein werden in den Hochwassergefahrenkarten abgebildet. 
+            Im AIS dargestellte kurze und lokale Starkregenereignisse (Dauer 60 min) wirken sich hingegen stärker auf kleinere Gewässer aus und führen in urbanen Räumen zu Überflutungen. 
             Für die Simulation wurde das DGM1 um die
             Gebäude aus dem Liegenschaftskataster (01/2022) ergänzt.
           </p>
