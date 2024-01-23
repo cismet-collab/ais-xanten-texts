@@ -77,7 +77,9 @@ const Component = () => {
 
             <li>
             Lokale Verhältnisse sind immer zur prüfen. Dabei sind auch die Funktion und Wirkung von Grundstücksentwässerungsanlagen zu berücksichtigen. 
-            Diese können im Modell für das gesamte Stadtgebiet nicht berücksichtigt werden. Die Abbildung von bereits getroffenen Maßnahmen sollte ortsspezifisch ebenfalls überprüft werden.
+            Diese können im Modell für das gesamte Stadtgebiet nicht berücksichtigt werden. Die Abbildung von bereits getroffenen Maßnahmen wie 
+            Fließhindernisse (z.B. Mauern) in unmittelbarer Nähe zum Gebäude oder Entwässerungsanlagen auf dem Grundstück
+            sollte ortsspezifisch ebenfalls überprüft werden.
             </li>
 
           </ul>
