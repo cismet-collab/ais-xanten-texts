@@ -35,14 +35,13 @@ const Component = () => {
             Geländemodell (DGM1). Als Grundlage hierfür dienen flächenhafte
             Höhenmessungen, die das Land NRW turnusmäßig mit einem Laserscanner
             aus einem Flugzeug heraus durchführt (Aufnahme durch Laseraltimetrie
-            im Jahr 2014 und 2020). Der Rhein führte bei der Messung 2020 Hochwasser wodurch der Rhein an sich sehr hohe Wasserstände aufwies und der Rheinaltarm überschwemmt war.
+            im Jahr 2014 und 2020). Für die Simulation wurde das DGM1 um die
+            Gebäude aus dem Liegenschaftskataster (01/2022) ergänzt. Der Rhein führte bei der Messung am 07.02.2020 Hochwasser wodurch der Rhein an sich sehr hohe Wasserstände aufwies und das Vorland / Alter Rhein überschwemmt war.
             Infolgedessen wurde in diesem Bereich der Wasserstand und nicht die Geländeoberfläche erfasst, wodurch es zu Höhenabweichungen 
             im digitalen Geländemodell gekommen ist. Daher wird dieser Bereich im AIS Starkregenvorsorge Xanten ausgeblendet. 
             Flüsse wie der Rhein weisen eine relativ hohe Abflussleistung auf und reagieren eher auf langanhaltende und großräumige Niederschläge mit Hochwasser.
             Überschwemmungen durch den Rhein werden in den Hochwassergefahrenkarten abgebildet. 
             Im AIS dargestellte kurze und lokale Starkregenereignisse (Dauer 60 min) wirken sich hingegen stärker auf kleinere Gewässer aus und führen in urbanen Räumen zu Überflutungen. 
-            Für die Simulation wurde das DGM1 um die
-            Gebäude aus dem Liegenschaftskataster (01/2022) ergänzt.
           </p>
 
           <p>
@@ -65,7 +64,7 @@ const Component = () => {
             Grundlage für die Modellanpassungen waren die kommunal verfügbaren
             Datensätze, Ortsbegehungen im Stadtgebiet und eine Prüfung durch
             den Dienstleistungsbetrieb der Stadt Xanten (DBX). Auf Grundlage von Testrechnungen wurde
-            das Modell anschließend gemeinsam mit dem Dienstleistungsbetrieb der Stadt Xanten (DBX) geprüft und angepasst.
+            das Modell gemeinsam mit dem Dienstleistungsbetrieb der Stadt Xanten (DBX) geprüft und angepasst.
           </p>
 
           <p>Welche Daten wurden berücksichtigt?</p>
