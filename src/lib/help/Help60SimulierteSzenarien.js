@@ -36,7 +36,7 @@ const Component = ({ uiState, uiStateActions }) => {
             Niederschläge in eine Skala von 1 bis 12 einteilt, vergleichbar mit
             der Klassifizierung von Erdbeben nach Mercalli. Der Starkregenindex
             wird durch eine statistische Auswertung von sehr langen vorliegenden
-            Regenmessungen an die örtlichen Gegebenheiten angepasst.Starkregen
+            Regenmessungen an die örtlichen Gegebenheiten angepasst. Starkregen
             mit SRI 6 bis 7 (<strong>außergewöhnliche Starkregen</strong>) haben
             statistische Wiederkehrzeiten von 50 bis 100 Jahren. Für noch
             stärkere <strong>extreme Starkregen</strong> lässt sich aus der
@@ -54,7 +54,7 @@ const Component = ({ uiState, uiStateActions }) => {
           <ul>
             <li>
               <strong>Stärke 7</strong>: außergewöhnliches Starkregenereignis,
-              Dauer 60 min, räumlich differenze Niederschlagssumme von 38,7 bis
+              Dauer 60 min, räumlich differenzierte Niederschlagssumme von 38,7 bis
               39,5 l/m², Blockregen , SRI 7, 100-jährliche Wiederkehrzeit nach
               KOSTRA-DWD-2020
             </li>
