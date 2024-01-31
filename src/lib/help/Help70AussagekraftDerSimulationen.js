@@ -78,7 +78,7 @@ const Component = () => {
             <li>
             Lokale Verhältnisse sind immer zur prüfen. Dabei sind auch die Funktion und Wirkung von Grundstücksentwässerungsanlagen zu berücksichtigen. 
             Diese können im Modell für das gesamte Stadtgebiet nicht berücksichtigt werden. Die Abbildung von bereits getroffenen Maßnahmen wie 
-            Fließhindernisse (z.B. Mauern) in unmittelbarer Nähe zum Gebäude oder Entwässerungsanlagen auf dem Grundstück
+            Fließhindernisse (z. B. Mauern) in unmittelbarer Nähe zum Gebäude oder Entwässerungsanlagen auf dem Grundstück
             sollte ortsspezifisch ebenfalls überprüft werden.
             </li>
 
@@ -94,6 +94,9 @@ const Component = () => {
               der Realität auch etwas geringere oder höhere Wassertiefen auf der
               Geländeoberfläche zur Folge haben.
             </strong>{" "}
+          </p>
+
+          <p>
             Die unterschiedlichen Betroffenheiten im Stadtgebiet lassen sich
             aber sehr gut mit den Ergebnisdarstellungen aufzeigen. Die
             dargestellten Szenarien (außergewöhnliches und extremes
