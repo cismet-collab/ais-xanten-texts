@@ -51,7 +51,7 @@ const Component = () => {
 
           <p>
             Der Farbverlauf für die <strong>Wassertiefen</strong> nutzt die
-            Eckwerte 10 cm (hellblau), 30 cm (blau), 50 cm (dunkelblau) und {">"} 100 cm
+            Eckwerte 10 cm (hellblau), 30 cm (blau), 50 cm (dunkelblau) und 100 cm
             (violett). Wassertiefen unter 5 cm werden nicht mehr farbig ausgeprägt
             (transparente Darstellung). Zur Visualisierung der{" "}
             <strong>Fließgeschwindigkeiten</strong>, angegeben in Meter pro
@@ -62,8 +62,8 @@ const Component = () => {
           </p>
 
           <p>
-            Die Simulationsberechnungen wurden im Auftrag durch das
-            Ingenieurbüro Dr. Pecher AG (Erkrath/Gelsenkirchen) durchgeführt.
+            Die Simulationsberechnungen wurden durch das
+            Ingenieurbüro Dr. Pecher AG (Erkrath/Gelsenkirchen) im Auftrag des DBX durchgeführt.
           </p>
 
           <p>
@@ -79,7 +79,7 @@ const Component = () => {
             Leistungsfähigkeit des Kanalnetzes als auch der Überstau des
             Kanalnetzes einen Einfluss auf die Überflutungssituation haben kann.
             Das Abflussverhalten des Kanalnetzes wurde durch eine kombinierte
-            Betrachtung vereinfacht berücksichtigt. Die Eigenschaften der Geländeoberfläche
+            Betrachtung berücksichtigt. Die Eigenschaften der Geländeoberfläche
             variieren je nach Flächennutzung. Die verschiedenen
             Oberflächeneigenschaften wurden im Modell über unterschiedliche
             Geländerauheiten und zeitlich variable Versickerungsansätze
