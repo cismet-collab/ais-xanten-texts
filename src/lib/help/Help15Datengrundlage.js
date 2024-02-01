@@ -63,8 +63,7 @@ const Component = () => {
           <p>
             Grundlage für die Modellanpassungen waren die kommunal verfügbaren
             Datensätze, Ortsbegehungen im Stadtgebiet und eine Prüfung durch
-            den Dienstleistungsbetrieb der Stadt Xanten (DBX). Auf Grundlage von Testrechnungen wurde
-            das Modell gemeinsam mit dem Dienstleistungsbetrieb der Stadt Xanten (DBX) geprüft und angepasst.
+            Mitarbeiterinnen und Mitarbeiter der Stadt Xanten (DBX).
           </p>
 
           <p>Welche Daten wurden berücksichtigt?</p>

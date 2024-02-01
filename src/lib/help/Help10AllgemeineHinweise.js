@@ -63,7 +63,7 @@ const Component = () => {
 
           <p>
             Die Simulationsberechnungen wurden durch das
-            Ingenieurbüro Dr. Pecher AG (Erkrath/Gelsenkirchen) im Auftrag des DBX durchgeführt.
+            Ingenieurbüro Dr. Pecher AG (Erkrath/Gelsenkirchen) im Auftrag der Stadt Xanten durchgeführt.
           </p>
 
           <p>

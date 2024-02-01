@@ -3,7 +3,7 @@ import GenericModalMenuSection from "react-cismap/topicmaps/menu/Section";
 import cismetLogo from "./assets/cismetSignet2k.png";
 import pecherLogo from "./assets/pecher.png";
 import klasLogo from "./assets/Signet_AIS_RZ.png";
-import customerLogo from "./assets/Logo-DBX-neu.jpg";
+import customerLogo from "./assets/WappenvonXanten.JPG";
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 const Component = ({ email }) => {
@@ -17,11 +17,11 @@ const Component = ({ email }) => {
           <p>
             Für telefonische Auskünfte zum Umgang mit dem Auskunfts- und
             Informationssystem Starkregen (AIS) stehen Ihnen die
-            Mitarbeiterinnen und Mitarbeiter des Dienstleitungsbetriebs Xanten zur Verfügung.
+            Mitarbeiterinnen und Mitarbeiter der Stadt Xanten zur Verfügung.
           </p>
           <p>
             Weitere Informationen zum Thema „Schutz vor Starkregen“ finden Sie
-            auf der Homepage des DBX.
+            auf der Homepage der Stadt Xanten.
           </p>
 
           <p style={{ display: "flex" }}>
