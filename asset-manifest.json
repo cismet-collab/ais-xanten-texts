@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.a0f0a568.css",
-    "main.js": "./static/js/main.a43eb98c.js",
+    "main.js": "./static/js/main.242558a5.js",
     "static/js/787.9585b0dd.chunk.js": "./static/js/787.9585b0dd.chunk.js",
-    "static/media/Logo-DBX-neu.jpg": "./static/media/Logo-DBX-neu.3e2e8bdfd385a94e00ea.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/markers_default@2x.png": "./static/media/markers_default@2x.9593b3c72f31a3f4b403.png",
     "static/media/Signet_AIS_RZ.png": "./static/media/Signet_AIS_RZ.4f7add7d825ac1166c5a.png",
@@ -11,6 +10,7 @@
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/markers_default.png": "./static/media/markers_default.c832adf43b69321540d3.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/WappenvonXanten.JPG": "./static/media/WappenvonXanten.a4ceb12f3f3473fb0c00.JPG",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/cismetSignet2k.png": "./static/media/cismetSignet2k.fbe76a931016df2e69fb.png",
     "static/media/pecher.png": "./static/media/pecher.d24e7eb82e7c9e161a31.png",
@@ -20,11 +20,11 @@
     "index.html": "./index.html",
     "static/media/location-arrow-solid.svg": "./static/media/location-arrow-solid.0b7c9a27de87a0ec7420.svg",
     "main.a0f0a568.css.map": "./static/css/main.a0f0a568.css.map",
-    "main.a43eb98c.js.map": "./static/js/main.a43eb98c.js.map",
+    "main.242558a5.js.map": "./static/js/main.242558a5.js.map",
     "787.9585b0dd.chunk.js.map": "./static/js/787.9585b0dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0f0a568.css",
-    "static/js/main.a43eb98c.js"
+    "static/js/main.242558a5.js"
   ]
 }
