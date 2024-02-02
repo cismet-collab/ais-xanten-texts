@@ -126,8 +126,8 @@ const Component = () => {
               Hintergrundkarte Stadtplan).
             </li>
             <li>
-              <strong>DTK (bunt)</strong>: DTK Sammeldienst des Landes NRW.
-              Datengrundlage: <strong>DTK (bunt)</strong> Dieser Dienst enthält
+              <strong>DTK (schwarz-weiß)</strong>: DTK Sammeldienst des Landes NRW.
+              Datengrundlage: <strong>DTK (schwarz-weiß)</strong> Dieser Dienst enthält
               alle topographischen Kartenwerke des Landes Nordrhein-Westfalen
               sowie in den kleineren Maßstäben topographische Kartenwerke des
               Bundes. Angefangen von einer Übersichtskarte für NRW über die
