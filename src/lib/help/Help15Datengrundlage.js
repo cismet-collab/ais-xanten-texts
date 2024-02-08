@@ -121,7 +121,7 @@ const Component = () => {
                 weitere Informationen
               </a>
               ). (2) Kartendienste (WMS) des Regionalverbandes Ruhr (RVR). 
-              Datengrundlagen: Stadtkarte 2.0 Wöchentlich in einem automatischen Prozess 
+              Datengrundlagen: <strong>Stadtkarte 2.0</strong> Wöchentlich in einem automatischen Prozess 
               aktualisierte Zusammenführung des Straßennetzes der OpenStreetMap mit 
               Amtlichen Geobasisdaten des Landes NRW aus den Fachverfahren ALKIS 
               (Gebäude, Flächennutzungen) und ATKIS (Gewässer). © RVR und 
