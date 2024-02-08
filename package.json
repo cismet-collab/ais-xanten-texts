@@ -2,7 +2,7 @@
   "name": "@cismet-collab/ais-xanten-texts",
   "description": "base text library for creating rainhazardmaps help components",
   "license": "MIT",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "homepage": ".",
   "main": "index.js",
   "module": "index.js",
