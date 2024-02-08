@@ -42,6 +42,7 @@ const getCollabedHelpComponentConfig = ({
   ];
   const menuFooter = (
     <Help99Footer
+      hintergrundkartenText="OSM light @ cismet | DOP © Geobasis NRW | Stadtkarte 2.0 © RVR | DTK Sammeldienst © Geobasis NRW"
       version={version}
       reactCismapRHMVersion={reactCismapRHMVersion}
       logoUrl={footerLogoUrl}
