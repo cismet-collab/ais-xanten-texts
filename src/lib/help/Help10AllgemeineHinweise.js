@@ -23,13 +23,13 @@ const Component = () => {
             align="right"
           />
           <p>
-            Die Starkregengefahrenkarte im AIS Starkregenvorsorge Xanten stellt in zwei
-            umschaltbaren Kartenansichten maximale Wassertiefen bzw. maximale
-            Fließgeschwindigkeiten im gesamten Stadtgebiet dar, die im
+            Die Starkregengefahrenkarte im AIS Starkregenvorsorge Xanten stellt
+            in zwei umschaltbaren Kartenansichten maximale Wassertiefen bzw.
+            maximale Fließgeschwindigkeiten im gesamten Stadtgebiet dar, die im
             Verlauf von zwei simulierten Starkregenszenarien berechnet wurden.
             Bei den Ergebnissen handelt es sich um eine modelltechnische
-            Untersuchung des Stadtgebiets mit dem Ziel die Realität
-            möglichst gut abzubilden. Bei der Betrachtung und Interpretation der
+            Untersuchung des Stadtgebiets mit dem Ziel die Realität möglichst
+            gut abzubilden. Bei der Betrachtung und Interpretation der
             Ergebnisse sind die Modellgrundlagen und -annahmen zu
             berücksichtigen. Hinweise zur Aussagekraft der Ergebnisse werden
             nachfolgend beschrieben.
@@ -51,19 +51,20 @@ const Component = () => {
 
           <p>
             Der Farbverlauf für die <strong>Wassertiefen</strong> nutzt die
-            Eckwerte 10 cm (hellblau), 30 cm (blau), 50 cm (dunkelblau) und 100 cm
-            (violett). Wassertiefen unter 5 cm werden nicht mehr farbig ausgeprägt
-            (transparente Darstellung). Zur Visualisierung der{" "}
+            Eckwerte 10 cm (hellblau), 30 cm (blau), 50 cm (dunkelblau) und 100
+            cm (violett). Wassertiefen unter 5 cm werden nicht mehr farbig
+            ausgeprägt (transparente Darstellung). Zur Visualisierung der{" "}
             <strong>Fließgeschwindigkeiten</strong>, angegeben in Meter pro
             Sekunde (m/s), werden die Eckwerte 0,3 m/s (gelb), 0,5 m/s (orange),
-            2,0 m/s (hellrot) und 3,0 m/s (dunkelrot) verwendet. Der untere
+            1,3 m/s (hellrot) und 3,0 m/s (dunkelrot) verwendet. Der untere
             Grenzwert für die farbige Anzeige einer Fließgeschwindigkeit liegt
             bei 0,2 m/s.
           </p>
 
           <p>
-            Die Simulationsberechnungen wurden durch das
-            Ingenieurbüro Dr. Pecher AG (Erkrath/Gelsenkirchen) im Auftrag der Stadt Xanten durchgeführt.
+            Die Simulationsberechnungen wurden durch das Ingenieurbüro Dr.
+            Pecher AG (Erkrath/Gelsenkirchen) im Auftrag der Stadt Xanten
+            durchgeführt.
           </p>
 
           <p>
@@ -90,8 +91,8 @@ const Component = () => {
             können in Teilgebieten die Wassertiefen auf dem Gelände höher oder
             geringer ausfallen. Um diese Variationen zu verstehen und besser
             einschätzen zu können, sind die unterschiedlichen Szenarien
-            dargestellt.
-            Weitere Informationen sind in dem Reiter "Aussagekraft der Simulationen" zu finden.
+            dargestellt. Weitere Informationen sind in dem Reiter "Aussagekraft
+            der Simulationen" zu finden.
           </p>
         </div>
       }
