@@ -47,7 +47,7 @@ const Component = ({ uiState, uiStateActions }) => {
           </p>
 
           <p>
-            Mit diesen Erläuterungen lassen sich die drei simulierten Szenarien
+            Mit diesen Erläuterungen lassen sich die zwei simulierten Szenarien
             wie folgt zusammenfassen:
           </p>
 
