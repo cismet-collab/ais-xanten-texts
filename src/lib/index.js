@@ -43,9 +43,23 @@ const getCollabedHelpComponentConfig = ({
   const menuFooter = (
     <Help99Footer
       hintergrundkartenText="OSM light @ cismet | DOP © Geobasis NRW | Stadtkarte 2.0 © RVR | DTK Sammeldienst © Geobasis NRW"
+      taglineModelling={
+        <div>
+          <b>Modellierung und AIS Starkregenvorsorge</b> (Version 1.0 |
+          11/2023):{" "}
+          <a target="_xanten" href="https://www.xanten.de/">
+            Stadt Xanten
+          </a>{" "}
+          |{" "}
+          <a target="_pecher" href="https://www.pecher.de/">
+            Dr. Pecher AG (Gelsenkirchen/Erkrath)
+          </a>
+        </div>
+      }
       version={version}
       reactCismapRHMVersion={reactCismapRHMVersion}
       logoUrl={footerLogoUrl}
+      
     />
   );
   return {
